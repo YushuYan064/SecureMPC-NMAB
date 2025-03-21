@@ -27,5 +27,5 @@ How to run the program:
 
 4. Run Baseline.py
 
-NMAB.py based on [OriginalRepo](https://github.com/uclaml/NeuralUCB.git).
+NMAB.py based on [Neural Contextual Bandits with UCB-based Exploration](https://github.com/uclaml/NeuralUCB.git).
 
