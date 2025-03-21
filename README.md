@@ -13,5 +13,16 @@ How to run the program:
 
 ---$p$: finite field size
 
-3. Run Dataset.py with specifying
+2. Run Dataset.py with specifying
+
 ---$M$: number of workers;
+
+---$l$: dataset size;
+
+---$Num_Episode_Train$: number of rounds
+
+---$CPU_mode$: distribution of workers' CPU frequencies
+
+3. Run NMAB.py
+
+4. Run Baseline.py
