@@ -26,3 +26,6 @@ How to run the program:
 3. Run NMAB.py
 
 4. Run Baseline.py
+
+NMAB.py based on [OriginalRepo](https://github.com/uclaml/NeuralUCB.git).
+
