@@ -23,7 +23,7 @@ How to run the program:
 
 ---$CPU_mode$: distribution of workers' CPU frequencies
 
-3. Run NMAB.py
+3. Run Bandit.py
 
 4. Run Baseline.py
 
