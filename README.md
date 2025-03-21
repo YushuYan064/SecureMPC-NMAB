@@ -1,6 +1,6 @@
 # SecureMPC-NMAB
 
-This contains the implementation of \textbf{Resource-Aware Secure Multi-Party Edge Computation Offloading}.
+This contains the implementation of **Resource-Aware Secure Multi-Party Edge Computation Offloading**.
 
 Our experiment is based on the CIFAR10 dataset:
 https://www.cs.toronto.edu/~kriz/cifar.html
